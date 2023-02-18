@@ -15,7 +15,7 @@ public class PQSample {
 		al.add("Hit");
 		
 		System.out.println("head :"+al.element());// if empty NoSuchElement Exception
-		System.out.println("head :"+al.element());// returns ifempty -> null
+		System.out.println("head :"+al.peek());// returns if empty -> null
 		
 		Iterator<String> li = al.iterator();
 		while (li.hasNext()) {

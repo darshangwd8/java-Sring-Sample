@@ -24,7 +24,6 @@ public class ArrayListSAmple {
 		while (it.hasNext()) {
 			System.out.println(it.next());
 		}
-		
 
 	}
 
