@@ -1,8 +1,0 @@
-package com.oops;
-
-public interface Ifc2 {
-	public static int ifc_y =5 ;
-    public abstract int sub(int x, int y);// abstract keyword is optional
-	
-
-}

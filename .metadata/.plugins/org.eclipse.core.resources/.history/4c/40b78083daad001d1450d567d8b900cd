@@ -1,8 +1,0 @@
-package com.oops;
-
-public interface Ifc2 {
-	public static final int ifc_x =5 ;
-    public abstract int add(int x, int y);// abstract keyword is optional
-	
-
-}
