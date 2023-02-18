@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.n2s.sample"/>
+    <fullyQualifiedTypeName name="com.oops.Sample"/>
+    <fullyQualifiedTypeName name="com.oops.Sample.Innersample"/>
+    <fullyQualifiedTypeName name="com.oops.A"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.oops.SuperRiding"/>
+    <fullyQualifiedTypeName name="com.oops.MethodOverloading"/>
+    <fullyQualifiedTypeName name="com.oops.MethodOverring"/>
+    <fullyQualifiedTypeName name="com.oops.Abstraction"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="com.oops.Ifc1"/>
+    <fullyQualifiedTypeName name="com.oops.Ifc2"/>
+    <fullyQualifiedTypeName name="com.oops.IfcSample"/>
+    <fullyQualifiedTypeName name="com.oops.Ifc3"/>
+    <fullyQualifiedTypeName name="com.oops.Child"/>
+    <fullyQualifiedTypeName name="com.oops.Constructor"/>
+    <fullyQualifiedTypeName name="pack1.Pack1Sample"/>
+    <fullyQualifiedTypeName name="pack2.Pack2Test"/>
+</qualifiedTypeNameHistroy>

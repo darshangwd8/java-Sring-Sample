@@ -1,0 +1,8 @@
+package com.oops;
+
+public interface Ifc2 {
+	public static final int ifc_y =2 ;
+    public abstract int sub(int x, int y);// abstract keyword is optional
+	
+
+}

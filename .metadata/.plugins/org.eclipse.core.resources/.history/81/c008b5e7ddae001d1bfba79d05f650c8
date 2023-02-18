@@ -1,0 +1,22 @@
+package com.collection;
+
+import java.util.PriorityQueue;
+
+public class PQSample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		PriorityQueue<String> al =new PriorityQueue<>();
+		al.add("Darshan");
+		al.add("Hi");
+		al.add("pello");
+		al.add("jello");
+		al.add("Hit");
+		
+		System.out.println("head :"+al.element());
+		System.out.println("head :"+al.element());
+		
+		
+	}
+
+}

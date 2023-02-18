@@ -1,0 +1,11 @@
+package com.oops;
+
+public class Constructor {
+	public static void main(String[] args) {
+		Constructor c =new Constructor();
+	}
+	Constructor(){
+		System.out.println("In Constructor.Constructor()");
+	}
+
+}

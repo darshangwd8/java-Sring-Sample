@@ -1,0 +1,30 @@
+package com.collection;
+
+import java.util.ArrayDeque;
+import java.util.Deque;
+
+public class DQSample {
+
+	public static void main(String[] args) {
+		// ArrarDeque class is derived frome Dequeue iterface
+		Deque<String> dq = new ArrayDeque<>();
+		dq.offer("Darshan");
+		dq.offer("Hello");
+		dq.add("Alice");
+		dq.offerFirst("Bob");
+		dq.offerLast("Charlie");
+		dq.offer("danny");
+		
+		
+		for(String e:dq) {
+			System.out.println(e);
+		}
+		dq.poll();
+		for(String e:dq) {
+			System.out.println(e);
+		}
+		
+
+	}
+
+}
