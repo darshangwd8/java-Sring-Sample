@@ -2,7 +2,6 @@ package com.collection;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
-import java.util.TreeMap;
 
 public class LinkedHashMapSample {
 	public static void main(String[] args) {
