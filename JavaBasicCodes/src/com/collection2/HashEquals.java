@@ -46,7 +46,4 @@ public class HashEquals {
 		HashEquals other = (HashEquals) obj;
 		return id == other.id;
 	}
-
-	
-
 }
